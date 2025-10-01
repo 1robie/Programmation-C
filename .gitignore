@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
 *.zip
+.idea/
 
 # Object files
 *.o
