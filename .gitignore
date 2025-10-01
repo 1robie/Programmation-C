@@ -2,6 +2,7 @@
 *.d
 *.zip
 .idea/
+cmake-build-debug/
 
 # Object files
 *.o
