@@ -9,9 +9,17 @@ add_executable(exo3 TP_1/exo3.c)
 add_executable(exo4 TP_1/exo4.c)
 add_executable(exo5 TP_1/exo5.c)
 add_executable(moyenne TP_1/moyenne.c)
+
 add_executable(exo1_TP2 TP_2/exo1.c)
 add_executable(exo2_TP2 TP_2/exo2.c)
 add_executable(exo3_TP2 TP_2/exo3.c)
 add_executable(exo4_TP2 TP_2/exo4.c)
 add_executable(exo5_TP2 TP_2/exo5.c)
 add_executable(exo6_TP2 TP_2/exo6.c)
+
+# TP 3
+
+add_executable(EqSecondDegre TP_3/EqSecondDegre.c)
+add_executable(exo1_TP3 TP_3/exo1.c)
+add_executable(exo3_TP3 TP_3/exo3.c)
+

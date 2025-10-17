@@ -30,3 +30,7 @@
 - (2+1) mod 3 = 0 → caillou bat ciseaux
 
 Ainsi, si J1 = (J2 + 1) mod 3, J1 est forcément le coup qui bat J2. Sinon, si ce n’est pas égal ni nul, c’est J2 qui gagne.
+
+# Exercice n°6 :
+
+[Fait](exo6.c)
