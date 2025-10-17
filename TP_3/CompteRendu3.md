@@ -12,4 +12,4 @@
 
 [Fait](exo3.c)
 
-`./exo3 >>TP_3/CompteRendu3.md` effectie une copie du code sortie dans le terminal dans le fichier en le rajoutant à la fin.
+`./exo3 >>TP_3/CompteRendu3.md` effectue une copie du code sortie dans le terminal dans le fichier en le rajoutant à la fin.
